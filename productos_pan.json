@@ -1,0 +1,20 @@
+{
+    "PN-001": {
+        "nombre": "Pan integral",
+        "categoria": "Pan",
+        "descripcion": "Pan de harina integral con semillas",
+        "proveedor": "Panaderia natural",
+        "cantidad_en_stock": 40,
+        "precio_venta": 1500.0,
+        "precio_proveedor": 1000.0
+    },
+    "PN-002": {
+        "nombre": "Pan de queso",
+        "categoria": "Pan",
+        "descripcion": "Pan hecho de harina de trigo con relleno de queso",
+        "proveedor": "Panaderia central",
+        "cantidad_en_stock": 4,
+        "precio_venta": 2000.0,
+        "precio_proveedor": 1200.0
+    }
+}

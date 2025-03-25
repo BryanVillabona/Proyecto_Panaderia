@@ -1,0 +1,20 @@
+{
+    "PT-001": {
+        "nombre": "Flan",
+        "categoria": "Postres",
+        "descripcion": "Postre lacteo tradicional",
+        "proveedor": "Panaderia dulce tentacion",
+        "cantidad_en_stock": 3,
+        "precio_venta": 1300.0,
+        "precio_proveedor": 800.0
+    },
+    "PT-002": {
+        "nombre": "Postre de limon",
+        "categoria": "Postres",
+        "descripcion": "Postre hecho de galletas con rayadura de limon",
+        "proveedor": "Panaderia central",
+        "cantidad_en_stock": 13,
+        "precio_venta": 1000.0,
+        "precio_proveedor": 500.0
+    }
+}

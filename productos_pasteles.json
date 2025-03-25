@@ -1,0 +1,20 @@
+{
+    "PS-001": {
+        "nombre": "Pastel de chocolate",
+        "categoria": "Pasteles",
+        "descripcion": "Pastel de chocolate con cobertura cremosa",
+        "proveedor": "Pasteleria dulce tentacion",
+        "cantidad_en_stock": 20,
+        "precio_venta": 3500.0,
+        "precio_proveedor": 2500.0
+    },
+    "PS-002": {
+        "nombre": "Pastel de vainilla",
+        "categoria": "Pasteles",
+        "descripcion": "Pastel de vainilla con cobertura de vainilla",
+        "proveedor": "Panaderia dulce tentacion",
+        "cantidad_en_stock": 4,
+        "precio_venta": 3300.0,
+        "precio_proveedor": 2500.0
+    }
+}
