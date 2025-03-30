@@ -1,4 +1,4 @@
-# Panadería 'Las Delicias'
+# Sistema de Gestión para Panadería - Delicias Caseras
 ***
 
 ## Tabla de Contenido
